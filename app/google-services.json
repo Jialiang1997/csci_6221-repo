@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "864296594506",
+    "firebase_url": "https://android-tweets-e2d72.firebaseio.com",
+    "project_id": "android-tweets-e2d72",
+    "storage_bucket": "android-tweets-e2d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864296594506:android:21dbc0feb8d78dfb",
+        "android_client_info": {
+          "package_name": "com.example.androidtweets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDzXeaIxrWrtqYbeN-PnO5KdIg3-isa7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864296594506-u7rovshik29lap4vmqkvlna9jcd1ujh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
